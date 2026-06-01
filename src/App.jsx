@@ -413,7 +413,7 @@ const App = () => {
                                 Designing <span className="gradient-text">Data-Driven</span> Solutions
                             </h1>
                             <p className="hero-description" style={{ minHeight: '4.5rem' }}>
-                                Hi, I'm Sophia! I'm a data scientist specializing in{' '}
+                                Hi, I'm Sophia! I'm a{' '}
                                 <span className="typing-text" id="typing-text">
                                     {typedText}
                                 </span>
